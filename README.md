@@ -19,7 +19,7 @@ The slower your CPU/CSPRNG is, the more times the random data will be used.
 
 ```
 $ random-fill
-Usage: ./main {count} {file} [size]
+Usage: ./random-fill {count} {file} [size]
 
 (the [size] is for development purpose, it shouldn't be used by end users)
 
